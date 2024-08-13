@@ -38,7 +38,7 @@
 签名者：
 
 - @Chihaya_Yuka
-
+- @LongLiveGPCR
 ## 参考文献
 
 [1] EOL, "高考分数线查询", 2022. [在线]. 可用: https://www.eol.cn/e\_html/gk/fsx/. [访问日期: 2024年8月13日].
